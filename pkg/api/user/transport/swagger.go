@@ -1,6 +1,6 @@
 package transport
 
-import "github.com/ribice/gorsk"
+import gorsk "github.com/soldevx/androbk"
 
 // User model response
 // swagger:response userResp
